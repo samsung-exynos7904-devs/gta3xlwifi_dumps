@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomerData>
+  <GeneralInfo>
+    <CSCEdition>ED0001</CSCEdition>
+    <Country>Georgia</Country>
+    <CountryISO>GE</CountryISO>
+    <Region>CIS</Region>
+    <SalesCode>CAU</SalesCode>
+  </GeneralInfo>
+  <Settings>
+    <Main>
+      <Phone>
+        <DefLanguage>ru_RU</DefLanguage>
+        <DefLanguageNoSIM>ru_RU</DefLanguageNoSIM>
+        <T9Enabling>disable</T9Enabling>
+        <DateTimeFormat>
+          <TimeFormat>24h</TimeFormat>
+        </DateTimeFormat>
+        <WeekendSetting>satsun</WeekendSetting>
+      </Phone>
+      <Security />
+    </Main>
+    <Calendar>
+      <StartDay>monday</StartDay>
+    </Calendar>
+    <Browser>
+      <CookieOption>accept</CookieOption>
+      <NbBookmark>2</NbBookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <BookmarkName>Samsung</BookmarkName>
+        <URL>http://www.samsung.com/</URL>
+      </Bookmark>
+      <Bookmark>
+        <NetworkName>default</NetworkName>
+        <BookmarkName>Google</BookmarkName>
+        <URL>http://www.google.com/m?client={CID}&amp;source=android-home</URL>
+      </Bookmark>
+      <eManual>
+        <URL>http://www.samsung.com/m-manual/common</URL>
+      </eManual>
+    </Browser>
+  </Settings>
+</CustomerData>
